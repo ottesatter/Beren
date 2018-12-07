@@ -7,7 +7,7 @@ body{
 
 .page {
 	margin: 0px auto;
-	border: 2px solid white;
+	border: 2px solid black;
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
@@ -48,6 +48,8 @@ h1{
 	padding: 10px 20px;
 	color: aliceblue;
 	font-family:monospace;
+	margin-left: -100;
+	margin-right: -100;
 }
 
 h2{

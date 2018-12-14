@@ -39,13 +39,13 @@ body{
 }
 
 .page-content{
-	padding: 100px;
+	padding: 50px;
 }
 
 h1{
 	background-color: #b68052;
 	margin: 20px;
-	padding: 10px 20px;
+	padding: 10px 100px;
 	color: aliceblue;
 	font-family:monospace;
 	margin-left: -100;
